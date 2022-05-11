@@ -18349,7 +18349,7 @@ MonoBehaviour:
   - enemyPrefab: {fileID: 7179232064845054248, guid: a7f9ef90cec94ce41addcda850fdd002, type: 3}
     countOfWaves: 15
     rateOfAppearance: 4
-  enemyPrefab: {fileID: 7632343353500706018, guid: eccec9fd03779b0499d58d728bd8a3a6, type: 3}
+  enemyPrefabTransform: {fileID: 0}
   spawnPoint: {fileID: 208275241}
   timeBetweenWaves: 5
   waveCountDownText: {fileID: 834727383}
